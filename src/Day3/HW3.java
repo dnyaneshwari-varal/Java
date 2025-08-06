@@ -21,7 +21,7 @@ public class HW3 {
 			 int power=1;
 			 for(int k=1; k<=count;k++) {
 				
-				//rem= temp1 %10;
+				
 				power=power*rem;
 				
 			 }
