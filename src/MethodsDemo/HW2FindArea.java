@@ -19,3 +19,9 @@ public class HW2FindArea {
 	}
 
 }
+/*
+ output
+enter radius
+4.5
+Area of circle is: 63.585
+*/
