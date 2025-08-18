@@ -46,20 +46,15 @@ public class AddPercentage {
  enter rows: 
 2
 enter clm: 
-5
+2
 enter price of items 
 100
 100
 100
 100
-100
-100
-100
-100
-100
-100
 matrix is: 
-100.0 100.0 100.0 100.0 100.0 
-100.0 100.0 100.0 100.0 100.0 
-total for person 1 is 500.25
-total for person 2 is 500.25*/
+100.0 100.0 
+100.0 100.0 
+total for person 1 is 210.0
+total for person 2 is 210.0
+*/
